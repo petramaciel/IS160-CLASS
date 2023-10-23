@@ -1,2 +1,2 @@
 # IS160-CLASS
-labs
+Collection of labs completed in IS160, AI in Business, course. 
